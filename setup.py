@@ -13,8 +13,5 @@ setup(name='hzkl',
       version=hzkl.__version__,
       download_url='https://github.com/hzuika/hzklpython',
       python_requires='>=3.6',
-      install_requires=[],
-      extras_require=[],
       packages=['hzkl'],
-      classifiers=[]
     )
